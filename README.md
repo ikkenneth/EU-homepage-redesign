@@ -1,2 +1,2 @@
 # EU-homepage-redesign
-EU homepage redesign using bootstrap
+EU homepage redesign using Bootstrap
